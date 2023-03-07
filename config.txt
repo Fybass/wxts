@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-12-17",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "期待我们的下一次拥抱,也许会很久",
+"note_ch": "对你的爱意，随时间递增",
 # 金句英文
-"note_en": "Looking forward to our next hug, maybe for a long time"
+"note_en": "Love for you, increasing over time"
 }
